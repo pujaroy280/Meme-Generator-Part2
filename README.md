@@ -3,8 +3,6 @@
 ## About
 This project is a React meme generator developed from the Scrimba tutorial series. It allows users to generate random memes by clicking a button. Another feature present in this app allows the user to type in the form inputs which then generates text from the top and bottom of the meme.
 
-![image](https://github.com/pujaroy280/Meme-Generator-Part2/assets/62675121/c7be2bd6-63eb-4b2b-8163-ee13f560255b)
-
 ![image](https://github.com/pujaroy280/Meme-Generator-Part2/assets/62675121/dc0d7696-463e-4500-8caa-a98ea82cd3eb)
 
 ## Technologies
