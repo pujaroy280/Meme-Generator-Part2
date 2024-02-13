@@ -75,10 +75,10 @@ main {
   color: white;
   font-family: Impact, sans-serif;
   text-shadow: 
-    -2px -1px 0 #000,  
-    -2px -1px 0 #000,
-    -2px  1px 0 #000,
-    -2px  1px 0 #000; /* Black outline */
+  -3px -3px 0 #000,  
+   3px -3px 0 #000,
+  -3px  3px 0 #000,
+   3px  3px 0 #000; /* Even bolder black outline */
   font-weight: bold;
   font-size: 56px; /* Adjust font size as needed */
   pointer-events: none; /* ensures that the text doesn't interfere with clicks */
